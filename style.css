@@ -1,0 +1,22 @@
+h1{
+    font-family: "Poetsen One";
+    color: #CB0FA6;
+    text-align: center;
+    
+}
+body{
+    background-color: #d87093;
+}
+#count{
+    border-radius: 10px;
+}
+
+#desc{
+    float: right;
+    font-family: "Poetsen One";
+}
+
+footer{
+    background-color: black;
+    color: pink;
+}
