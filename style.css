@@ -17,6 +17,12 @@ body{
 }
 
 footer{
-    background-color: black;
     color: pink;
+}
+#collage{
+    font-family: "Poetsen One";
+    color: #CB0FA6;
+    border-radius: 20px;
+    border-color: black;
+    text-align: center;
 }
